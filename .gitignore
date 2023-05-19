@@ -1,0 +1,112 @@
+# Arquivos gerados pelo Maven
+target/
+
+# Arquivos gerados pelo Gradle
+build/
+out/
+
+# Arquivos de configuração do Eclipse
+.settings/
+
+# Arquivos de configuração do IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos gerados pelo Spring Boot DevTools
+.restart/
+
+# Arquivos de configuração do Spring Boot
+application.properties
+application.yml
+
+# Dependências
+# Se você estiver usando Maven, remova essa seção se estiver usando Gradle
+# Caso contrário, adicione a seção relevante para a sua ferramenta de construção
+## Maven dependencies
+# .mvn/
+# target/
+
+## Gradle dependencies
+# .gradle/
+# build/
+
+# Arquivos de compilação Java
+*.class
+
+# Pacotes gerados
+*.jar
+*.war
+*.ear
+
+# Arquivos de cobertura de código
+*.gcda
+*.gcno
+*.gcov
+
+# Arquivos de cache do JUnit
+/.junit/
+
+# Arquivos de cobertura do Jacoco
+/coverage/
+
+# Arquivos de configuração do SonarQube
+/sonar/
+
+# Arquivos de configuração do Checkstyle
+/checkstyle/
+
+# Arquivos de configuração do FindBugs
+/findbugs/
+
+# Arquivos de configuração do PMD
+/pmd/
+
+# Arquivos de configuração do SpotBugs
+/spotbugs/
+
+# Arquivos de configuração do Lombok
+/.lombok/
+
+# Arquivos de configuração do MapStruct
+/.apt_generated/
+
+# Arquivos de configuração do Swagger
+/swagger-ui/
+
+# Arquivos gerados pelo Flyway
+/db/migration/
+
+# Arquivos gerados pelo Liquibase
+/db/changelog/
+
+# Arquivos gerados pelo JHipster
+/*.jhipster.yml
+
+# Logs do JHipster
+/logs/
+
+# Dependências do Node.js
+/node_modules/
+
+# Arquivos gerados pelo Angular
+/dist/
+
+# Cache do Yarn
+/.yarn/
+
+# Arquivos gerados pelo TypeScript
+*.js
+*.js.map
+
+# Pacotes do npm
+*.tgz
